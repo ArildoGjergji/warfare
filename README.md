@@ -72,9 +72,7 @@ Manages simulation setup, execution, and logging:
 
 ## Installation and Usage
 
-### Prerequisites
+### Prerequisites and Execution
 ```bash
 pip install numpy
-Running the Simulation
-bash
 python main.py
