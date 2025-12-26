@@ -2,13 +2,6 @@
 
 A minimal, efficient Python simulation for modern warfare scenarios featuring unit combat, movement, and engagement tracking.
 
-## Project Structure
-warfare_simulation/
-├── models.py # Data structures and type definitions
-├── simulation.py # Core simulation engine
-├── main.py # Entry point and execution
-└── warfare_simulation.log # Generated log file
-
 ## File Descriptions
 
 ### `models.py` - Data Models and Types
